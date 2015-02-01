@@ -6,7 +6,7 @@
 		[
             {
                 "caption": "Git Fetch All",
-                "command": "git_fetch_all",
+                "command": "git_fetch_all"
             }
 		]
 	}
