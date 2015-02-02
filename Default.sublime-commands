@@ -1,6 +1,27 @@
 [
-    {
-        "caption": "Bla",
-        "command": "git_fetch_all"
-    },
+	{
+		"caption": "Git: Fetch all",
+		"command": "git_fetch_all"
+	},
+	{
+		"caption": "Git: Rebase Interactive 2",
+		"command": "git_rebase_n",
+		"args":{
+			"n": 2
+		}
+	},
+	{
+		"caption": "Git: Rebase Interactive 3",
+		"command": "git_rebase_n",
+		"args":{
+			"n": 3
+		}
+	},
+	{
+		"caption": "Git: Rebase Interactive 4",
+		"command": "git_rebase_n",
+		"args":{
+			"n": 4
+		}
+	}
 ]

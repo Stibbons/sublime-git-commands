@@ -1,0 +1,13 @@
+[
+    {
+        "keys": [
+            "ctrl+g",
+            "r",
+            "2"
+        ],
+        "command": "git_rebase_n",
+        "args": {
+            "n": 2
+        }
+    }
+]
